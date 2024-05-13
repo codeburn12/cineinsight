@@ -16,6 +16,8 @@ Welcome to CineInsight, your cinematic guide! This application is designed to he
 ---
 
 ## Getting Started
+[Checkout the Website Here](https://cineinsight-two.vercel.app/)
+
 <img src="public\1.png"> <br/>
 
 <img src="public\2.png"> <br/>
